@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RaahiSinha
-- 👀 I’m interested in coding and android development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in coding and Web development
 - 💞️ I’m looking to collaborate on some project.
 - 📫 How to reach me insta @raahisinha
 
